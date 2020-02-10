@@ -1,1 +1,1 @@
-# this is midterm repository
+# midterm
